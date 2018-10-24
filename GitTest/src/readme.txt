@@ -7,7 +7,9 @@
    2) 로컬 저장소로 Commit 
    		> Commit
    3) 원격 저장소로 Push
-   
+   		> Push branch master
+   		
+   		
 2. Pull
 
 3. Cloning

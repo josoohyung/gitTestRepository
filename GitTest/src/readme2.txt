@@ -1,1 +1,9 @@
-테스트 파일 2
+깃허브 계정
+
+1. 	name : josoohyung1
+   	mail : icet0007@daum.net
+    
+2.	name : josoohyung2
+	mail : icet0202@naver.com
+	
+ 
